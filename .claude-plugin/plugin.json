@@ -1,0 +1,8 @@
+{
+  "name": "sponge-mode",
+  "description": "Bulk intake and synthesis workflow — absorb messy, multi-format material then query, mold, and extract structured outputs",
+  "author": {
+    "name": "Itay Turgeman",
+    "email": "itay@voltmancer.com"
+  }
+}
